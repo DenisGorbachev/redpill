@@ -2,11 +2,13 @@
 
 🛡 Redpill prevents you from accidentally shorting Crypto against USD 🛡
 
-**The money is losing its meaning.** Federal Reserve is inflating US Dollar by printing extra supply every year. It's time to rise against the system and choose crypto instead of manipulated fiat. However, crypto exchanges still have a "Sell" button, which makes it easy to trade away your chance to financial freedom. We don't blame them - it is their obligation to give the choice to the user. However, while the fiat-based financial system continues to deteriorate, it's necessary to **protect ourselves from our own emotions.**
+**The money is losing its meaning.** Federal Reserve is inflating US Dollar by printing extra supply every year. It's time to rise against the system and choose crypto instead of manipulated fiat.
+
+However, crypto exchanges still have a "Sell" button, which makes it easy to trade away your chance to financial freedom. We don't blame them - it is their obligation to give the choice to the user. However, while the fiat-based financial system continues to deteriorate, it's necessary to **protect ourselves from our own emotions.**
 
 Here, install this extension to replace the "Sell" button with "Chat with friends" button, which gives you access to a welcoming community of crypto enthusiasts.
 
-Note that **you can still sell altcoins for BTC / ETH** easily - the extension doesn't remove the "Sell" buttons on crypto-to-crypto markets, only on crypto-to-fiat markets (including fiat-tethered stablecoins).
+Note that **you can still sell altcoins for BTC / ETH easily** - the extension doesn't remove the "Sell" buttons on crypto-to-crypto markets, only on crypto-to-fiat markets (including fiat-tethered stablecoins).
 
 ## Instructions
 
