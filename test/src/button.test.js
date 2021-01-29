@@ -33,3 +33,7 @@ xtest('Alice clicks "Share" link', async function (page) {
    * Alice clicks on a social network logo to share the ShortLock extension
    */
 })
+
+// TODO: Fix FTX button: click on "Buy" should get the button into a default state
+// TODO: Implement i18n
+// TODO: Implement error reporting (do it without tracking: display an overlay)

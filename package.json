@@ -1,11 +1,11 @@
 {
-  "name": "shortstopper",
+  "name": "redpill",
   "version": "1.0.0",
-  "description": "ShortStopper cross-browser extension",
+  "description": "Redpill browser extension",
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DenisGorbachev/shortstopper"
+    "url": "https://github.com/DenisGorbachev/redpill"
   },
   "engines": {
     "node": "^14.10.1"
@@ -36,7 +36,6 @@
     "fontsource-roboto": "^3.0.3",
     "formik": "^2.2.5",
     "formik-material-ui": "^3.0.0",
-    "isomorphic-ws": "^4.0.1",
     "jss": "^10.5.0",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
@@ -44,6 +43,8 @@
     "react-firebase-hooks": "^2.2.0",
     "react-firebaseui": "^4.1.0",
     "react-hot-loader": "^4.13.0",
+    "rxjs": "^6.6.3",
+    "rxjs-spy": "^7.5.3",
     "visibilityjs": "^2.0.2",
     "yup": "^0.30.0"
   },

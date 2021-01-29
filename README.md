@@ -12,13 +12,10 @@ Note that **you can still sell altcoins for BTC / ETH** easily - the extension d
 
 ### Install
 
+* Clone this repository.
 * [Install Yarn](https://classic.yarnpkg.com/en/docs/install)
   * [Install Bash Completions for Yarn](https://github.com/dsifford/yarn-completion)
-* Install packages:
-
-```
-yarn install
-```
+* Run `yarn install`
 
 ### Run
 
@@ -29,3 +26,12 @@ yarn install
 * Select `/build` folder
 
 NOTE: The extension code will auto-reload when you make changes in `/src`.
+
+### Read the code
+
+1. Read `src/pages/content.js`
+  1. This code is executed when the user opens a new page.
+
+### Debug
+
+1. Use [rxjs-spy](https://github.com/cartant/rxjs-spy) (already installed)

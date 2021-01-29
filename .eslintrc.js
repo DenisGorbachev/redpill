@@ -5,10 +5,5 @@ module.exports = {
   },
   rules: {
     'semi': ['error', 'never'],
-    'space-before-function-paren': ['error', {
-      'anonymous': 'always',
-      'named': 'never',
-      'asyncArrow': 'always',
-    }],
   },
 }

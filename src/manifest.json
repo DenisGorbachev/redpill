@@ -1,5 +1,5 @@
 {
-  "name": "ShortLock ",
+  "name": "Redpill",
   "manifest_version": 2,
   "background": {
     "page": "background.html"
@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.instagram.com/*"],
+      "matches": ["*://*.ftx.com/*"],
       "js": ["contentScript.bundle.js"],
       "run_at": "document_end",
       "css": ["contentScript.css"]
@@ -20,5 +20,5 @@
     "icon-128.png",
     "icon-34.png"
   ],
-  "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.gstatic.com https://www.googleapis.com https://*.firebaseio.com https://redpill-network.firebaseapp.com; style-src 'self' https://fonts.googleapis.com; object-src 'self'"
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; style-src 'self' https://fonts.googleapis.com; object-src 'self'"
 }

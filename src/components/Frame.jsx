@@ -1,7 +1,6 @@
 import Container from '@material-ui/core/Container'
 import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles'
 import React, { useCallback } from 'react'
-import { useAuthState } from 'react-firebase-hooks/auth'
 import Loader from './Loader.jsx'
 import Bearer from './Bearer.jsx'
 import { Status } from './Status.jsx'
