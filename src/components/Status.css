@@ -1,0 +1,7 @@
+.redpill-status .redpill-link {
+    text-decoration: underline;
+}
+
+.redpill-status .redpill-header {
+    flex-grow: 1;
+}
